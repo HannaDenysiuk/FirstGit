@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Garage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cars>
+    <Car>
+      <Model>Audi</Model>
+      <Number>AB1234BC</Number>
+      <Color>Yellow</Color>
+    </Car>
+    <Car>
+      <Model>Porsh</Model>
+      <Number>BC1010KO</Number>
+      <Color>Blue</Color>
+    </Car>
+    <Car>
+      <Model>Opel</Model>
+      <Number>BM4567KC</Number>
+      <Color>Yellow</Color>
+    </Car>
+    <Car>
+      <Model>Lexus</Model>
+      <Number>AA4444HK</Number>
+      <Color>Black</Color>
+    </Car>
+  </Cars>
+</Garage>

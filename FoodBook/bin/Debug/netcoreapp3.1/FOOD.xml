@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FoodBook>
+	<recipe>
+		<Title>Borsh</Title>
+		<Ingredients>
+			<Item gram = "400">meat</Item>
+			<Item liters = "2">water</Item>
+			<Item gram = "300">cabbage</Item>
+			<Item gram = "300">beets</Item>
+			<Item pieces = "3-4">potatos</Item>
+			<Item piece = "1">carrots</Item>
+			<Item piece = "1">onion</Item>
+			<Item pieces = "3">tomatos</Item>
+			<Item tea-spun = "1">salt</Item>
+		</Ingredients>
+		<Preparation degree_of_complexity="2" cooking_time="1:50">
+			Pour cold water into the pan, lay out the meat. 
+			Watch the broth, remove the foam before boiling. 
+			When the liquid boils, cover the pan with a lid and simmer for an hour anda half.
+			Wash and peel beets, carrots and onions. 
+			Grate the beets on a large grater and the carrots on a medium grater.
+			Cut the onion into small cubes. Pour the oil into the pan, turn on medium heat. 
+			Then lay out the beets. Add citric acid, vinegar or lemon juice to it. 
+			Thanks to this, the borsch will be truly red and will acquire a pleasant sourness. 
+			Add citric acid, vinegar or lemon juice to the beets. 
+			Then add the tomato paste, stir and leave on the fire for another 5-7 minutes. 
+			Add tomato paste, stir and leave on the fire for another 5-7 minutes. remove the meat. 
+			While it cools, pour the shredded cabbage into the pan. 
+			After 5-10 minutes, add the diced or diced potatoes. 
+			While the potatoes are cooking, separate the meat from the bones and cut into cubes. 
+			Return it to the soup. Add salt to taste. Separate the meat from the bones and cut into cubes.
+			Return it to the soup. Add the stir-fry and stir. Toss a bay leaf and finely chopped greens. 
+			Cover the pan with a lid and cook for another 5-7 minutes. 
+			For flavor, you can add a little crushed garlic, ground cloves or black pepper to the pan. 
+			Leave the borscht under the lid to infuse for 5-10 minutes.
+		</Preparation>
+		<Serving>6</Serving>
+	</recipe>
+	<recipe>
+		<Title>Plov</Title>
+		<Ingredients>
+			<Item kilogram = "1">meat</Item>
+			<Item kilogram = "1">rise</Item>
+			<Item pods = "2">pepper</Item>
+			<Item heads = "1">garlic</Item>
+			<Item piece = "1">carrots</Item>
+			<Item piece = "1">onion</Item>
+			<Item gram = "300">oil</Item>
+			<Item tea-spun = "1">salt</Item>
+		</Ingredients>
+		<Preparation degree_of_complexity="4" cooking_time="1:20">
+			We prepare all products for pilaf. We cut onions into cubes, carrots - large enough cubes. 
+			In a preheated cauldron, lightly fry the onion in vegetable oil. 
+			The pilaf that always turns out is step №4 Add the meat, fry until almost done. 
+			The pilaf that always turns out is step №5 Fall asleep carrots, fry. Salt, add spices. 
+			Wash the rice well, fill it in a cauldron, stir and pour boiling water so that the water covers the rice by 2-2.5 cm. 
+			It is better not to add water. If in the process of cooking it turns out that there is not enough water,
+			you can easily add it. But if there is a lot of water, rice is guaranteed to be digested.
+			Bring to a boil without covering. We try on salt and if necessary we add salt. 
+			As soon as it boils, add the whole heads of garlic, peeled from the top peel, and hot pepper pods. 
+			Reduce heat to low, cover and leave pilaf for 20 minutes. After 20 minutes, check: 
+			if the rice is still raw and the water is gone - add a little hot water and cover again. 
+			The finished rice should not be too soft. Turn off the heat and let the pilaf stand for 15-20 minutes. 
+			Traditionally, Achuchuk (Achik-Chuchuk or, in other words, Shakarob) salad is prepared for Uzbek pilaf.
+			To prepare it elementary: cut tomatoes and onions, add salt and black pepper. Butter is not added to this salad.
+			The pilaf is ready! Enjoy your meal!
+		</Preparation>
+		<Serving>6</Serving>
+	</recipe>
+</FoodBook>

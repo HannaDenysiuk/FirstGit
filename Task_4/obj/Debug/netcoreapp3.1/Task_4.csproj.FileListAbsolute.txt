@@ -1,0 +1,13 @@
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.csprojAssemblyReference.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfoInputs.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfo.cs
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.csproj.CoreCompileInputs.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.exe
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.deps.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.dev.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.dll
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\bin\Debug\netcoreapp3.1\Task_4.pdb
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.dll
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.pdb
+D:\IT_Step_Academy\c#_lessons\Home_Work\Task_4\obj\Debug\netcoreapp3.1\Task_4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.exe
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.deps.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.runtimeconfig.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.runtimeconfig.dev.json
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.dll
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\bin\Debug\netcoreapp3.1\FoodBook.pdb
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.AssemblyInfoInputs.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.AssemblyInfo.cs
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.csproj.CoreCompileInputs.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.dll
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.pdb
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.genruntimeconfig.cache
+D:\IT_Step_Academy\c#_lessons\Home_Work\FoodBook\obj\Debug\netcoreapp3.1\FoodBook.csprojAssemblyReference.cache
